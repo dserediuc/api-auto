@@ -12,6 +12,6 @@ NodeJS installed
 Visual Studio Code for IDE
 
 How to run the project:
-1)Clone the repository
-2)Inside root directory type: npm install
-3)To run tests type: npm run API
+- Clone the repository
+- Inside root directory type: npm install
+- To run tests type: npm run API
