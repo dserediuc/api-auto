@@ -1,0 +1,18 @@
+{
+    "apis": {
+      "accounts": "/api/v1/accounts",
+      "contacts":"/contacts"
+    },
+    "commonHeaders": {
+      "Content-Type": "application/json; charset=utf-8",
+      "api_access_token":"B2GqChi9vqHnB6picALDPcmy"
+    },
+    "postContact":{
+        "inbox_id": 1,
+        "name": "string",
+        "email": "dragos.1.serediuc@mailinator.com",
+        "phone_number": "+491626542330",
+        "identifier": "string",
+        "custom_attributes": "none"    
+    }
+  }
